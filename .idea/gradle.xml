@@ -10,7 +10,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/computeaidl" />
             <option value="$PROJECT_DIR$/computeservice" />
+            <option value="$PROJECT_DIR$/normallistener" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
