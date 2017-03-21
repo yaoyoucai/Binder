@@ -1,1 +1,1 @@
-include ':app', ':computeservice', ':computeaidl', ':normallistener'
+include ':app', ':computeservice', ':computeaidl', ':normallistener', ':test'
